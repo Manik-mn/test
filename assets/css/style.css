@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.banner-bottom{
+    background: #000000;
+    padding: 40px 0px;
+    width: 100%;
+}
+
+.banner-bottom h1{
+    color: #fff;
+}
+.banner-bottom h1::after{
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 20%;
+    height: 4px;
+    top: 62px;
+    left: 40%;
+}
+.banner-bottom p{
+    color: #ffffffd6;
+    padding: 30px 0px 0px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.content-section{
+    width: 100%;
+    background: #000000;
+}
+.content-img img{
+    width: 134%;
+    position: relative;
+    right: 120px;
+    height: 450px;
+}
+.content-box{
+    padding: 56px 93px;
+}
+.content-box h1{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+}
+.content-box h1::after{
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 5%;
+    height: 4px;
+    top: 21%;
+    left: 16%;
+}
+.content-box h2{
+    color: #ffffffd6;
+    padding: 25px 0px 0px;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.content-box p{
+    color: #fff;
+    padding: 37px 0px;
+}
+
+.content1-img{
+    background-image: url(../img/L-2.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 535px;
+    width: 100%;
+    right: 120px;
+    position: absolute;
+    color: #fff;
+}
+.text-box{
+    text-align: right;
+    margin-top: 260px;
+    padding: 50px 80px 0px 318px;
+}
+.text-box{
+    font-weight: 600;
+}
+
+.btn {
+    padding: 0.375rem 1.75rem !important;
+    font-size: 21px !important;
+    font-weight: 600 !important;
+}
+.content1-box{
+    margin-left: -58px;
+    padding: 50px 10px 0px 0px;
+}
+.content1-box h2{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0px 0px 40px 0px;
+}
+.content1-box h2::after{
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 20%;
+    height: 4px;
+    top: 19%;
+    left: -11%;
+}
+.content1-box p{
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.caard-section{
+    margin-top: 62px;
+    padding: 80px 0px;
+}
+.card-detailss h1{
+    color: #000000;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.card-detailss h1::after{
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 20%;
+    height: 4px;
+    top: 13%;
+    left: 40%;
+}
+.card-detailss p{
+    font-size: 15px;
+    font-weight: 600;
+}
+.card-detailss h5{
+    font-size: 14px;
+    margin-top: -8px;
+}
+.card-detailss h4{
+    font-weight: 700;
+    font-size: 37px;
+    margin-top: 25px;
+}
+.card-detailss h6{
+    font-weight: 600;
+    font-size: 17px;
+    letter-spacing: 1px;
+    margin-bottom: 24px;
+}
+
+
+.details{
+    font-size: 14px;
+    margin-bottom: 20px
+ }
+ .btn-dark {
+    letter-spacing: 2px !important;
+}
+.Ingredient{
+    width: 100%;
+    background: #000;
+  }
+  .Ingredient-left img{
+    margin-left: 50px;
+  }
+
+.Ingredient-right{
+    margin-top: 120px;
+    color: #fff;
+     
+}
+.Ingredient-right h4{
+    font-size: 23px;
+    font-weight: 600;
+     
+}
+.Ingredient-right p{
+    margin: 15px 0px;
+    font-size: 15px;
+     
+}
+.Instraction{
+    padding: 55px 0px;
+}
+.Instraction-left h4{
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.Instraction-right p{
+    font-size: 17px;
+}
+.gallry-left h4 {
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 20px 0px;
+}
+.bold{
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 700;
+}
+.itali{
+    font-style: italic;
+}
+.titl{
+    margin-top: 30px;
+}
+.titl h4{
+    font-size: 24px;
+    font-weight: 500;
+}
+.titl h4::after{
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 61%;
+    height: 6px;
+    top: 70%;
+    left: 32%;
+}
+
+.step1 h4{
+    text-transform: uppercase;
+    font-weight: 700; 
+    padding: 0px 0px 35px 0px;
+}
+.step1 h4::after{
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 75%;
+    height: 4px;
+    top: 21%;
+    left: 4%;
+}
+.step1 h5{
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 500;  
+}
+.step1 p{
+    font-size: 16px;
+    margin-top: 27px;
+    padding-right: 57px; 
+}
+.black{
+    color: #fff;
+    background: #000;
+    height: 33px;
+    width: 33px;
+    position: absolute;
+    text-align: center;
+    border-radius: 100%;
+    margin: 0px 12px;
+}
+.titl1{
+    margin-top: 30px;
+}
+.titl1 h4{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.titl1 p{
+    color: #000000b8;
+}
+.titl1 h6{
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.gallry{
+    padding: 70px 0px;
+}
+.card {
+    border: none !important;
+    border-radius: none !important;
+    padding: 0px 8px !important;
+}
+.footer{
+    width: 100%;
+    background: #000000;
+    padding: 50px 0px;
+}
+.footer-right{
+    text-align: right;
+}
+.icoon{
+    justify-content: end;
+}
+
+.footer-left ul li{
+    list-style: none;
+    padding: 7px 0px;
+}
+.footer-left ul li a::after{
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 1%;
+    height: 2px;
+    left: 4%;
+}
+.footer-left li a{
+    color: #fff;
+    font-size: 18px;
+}
+.footer-right p{
+    color: #fff;
+    font-weight: 600;
+}
+input{
+    background: none;
+    color: #fff;
+    padding: 8px 30px 8px 30px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 10px 0px;
+    border: 1px solid #fff;
+    letter-spacing: 1px;
+}
+.btn-infoo{
+    background: #fff;
+    color: #000;
+    padding: 8px 118px;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.footer-middl h6{
+    color: #ffffff4a;
+    font-size: 12px;
+    text-decoration: underline;
+}
+.footer-middl h1{
+    color: #fff;
+    font-size: 28px;
+    font-weight: 700;
+}
+.footer-middl p{
+    color: #ffffffe6;
+    font-size: 15px;
+}
+.footer-right li a{
+    background: #fff;
+
+    border-radius: 100%;
+    object-fit: cover;
+    height: 40px;
+    width: 40px;
+    color: #000;
+    background-position: center;
+}
+
+.footer-right li {
+    padding: 0px 0px 0px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+

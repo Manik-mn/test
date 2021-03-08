@@ -1,0 +1,457 @@
+/* 
+Small devices (portrait phones,less then 576px)
+*/
+
+@media (max-width: 575.98px){
+    .content1-img {
+        position: relative;
+        right: 0px;
+        margin-top: -262px;
+    }
+    .text-box {
+        text-align: right;
+        padding: 315px 80px 0px 0px;
+    }
+    .content-box h1::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 5%;
+        height: 4px;
+        top: 21%;
+        left: 40%;
+    }
+    .content-box {
+        padding: 56px 0px;
+        text-align: center;
+    }
+    .content1-box {
+        margin-left: 0px;
+        padding: 0px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .content1-box h2::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 20%;
+        height: 4px;
+        top: 19%;
+        left: 40%;
+    }
+    .caard-section {
+        padding: 50px 0px;
+    }
+    .details {
+        margin-top: 50px;
+    }
+    .Ingredient-right {
+        margin-top: 60px;
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .Instraction-right p {
+        font-size: 16px;
+    }
+    .step1 h4::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 75%;
+        height: 3px;
+        top: 33%;
+        left: 3%;
+    }
+
+
+    .step1 h4 {
+        text-transform: uppercase;
+        font-weight: 700;
+        padding: 50px 0px 35px 0px;
+    }
+    .footer-left{
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+
+    .titl h4::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 66%;
+        height: 5px;
+        top: 108%;
+        left: 3%;
+    }
+
+    .footer-left ul li a::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 1%;
+        height: 2px;
+        left: 45%;
+    }
+    .footer-right {
+        text-align: center;
+        margin: 20px 0px;
+    }
+    .icoon{
+        justify-content: center;
+    }
+
+
+
+
+}
+
+
+
+  /* 
+Small devices (landscape phones, 576px and up)
+  */
+  
+  @media (min-width: 576px) and (max-width: 767.98px){
+
+    .content-img img {
+        width: 100%;
+        position: relative;
+        right: 0px;
+        height: 450px;
+    }
+
+    .content-box {
+        padding: 56px 0px;
+    }
+    .content-box h1::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 5%;
+        height: 4px;
+        top: 23%;
+        left: 3%;
+    }
+
+    .content1-img {
+        width: 100%;
+        right: 0px;
+        position: relative;
+    }
+    .text-box {
+        text-align: right;
+        margin-top: 0px;
+        padding: 329px 80px 0px 0px;
+    }
+.content-section2{
+    width: 100%;
+    margin-top: -5px;
+}
+
+.content1-box {
+    margin-left: 0px;
+    padding: 50px 10px 0px 0px;
+}
+
+
+.content1-box h2::after {
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 20%;
+    height: 4px;
+    top: 19%;
+    left: 3%;
+}
+
+.details {
+    margin-top: 50px;
+}
+.Ingredient-right {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.Instraction-right p {
+    font-size: 16px;
+}
+.step1 h4::after {
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 75%;
+    height: 3px;
+    top: 33%;
+    left: 3%;
+}
+
+
+.step1 h4 {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 50px 0px 35px 0px;
+}
+.footer-left{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+.titl h4::after {
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 66%;
+    height: 5px;
+    top: 108%;
+    left: 3%;
+}
+
+.footer-left ul li a::after {
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 1%;
+    height: 2px;
+    left: 45%;
+}
+.footer-right {
+    text-align: center;
+    margin: 20px 0px;
+}
+.icoon{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+
+ /* 
+Medium devices (tablets, 768px and up)
+  */
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+
+    .content-img img {
+        width: 119%;
+        position: relative;
+        right: 120px;
+        height: 400px;
+    }
+
+    .content-box h1::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 5%;
+        height: 4px;
+        top: 18%;
+        left: 26%;
+    }
+
+    .content-box p {
+        padding: 18px 0px;
+    }
+
+    .content1-img {
+        height: 535px;
+        width: 100%;
+        right: 76px;
+        position: absolute;
+        color: #fff;
+    }
+
+    .text-box {
+        text-align: right;
+        margin-top: 0px;
+        padding: 315px 50px 0px 0px;
+    }
+
+    .content1-box h2::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 20%;
+        height: 4px;
+        top: 15%;
+        left: -17%;
+    }
+
+    .content1-box p {
+        margin-bottom: 10px;
+    }
+
+    .card-detailss h1::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 20%;
+        height: 4px;
+        top: 8%;
+        left: 40%;
+    }
+
+    .details {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .Ingredient-left img {
+        margin-left: 0px;
+    }
+.Instraction-right{
+    margin-left: 50px;
+}
+.Instraction-right p {
+    font-size: 16px;
+}
+.step1 h4::after {
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 70%;
+    height: 3px;
+    top: 26%;
+    left: 5%;
+}
+
+.step1 p {
+    font-size: 15px;
+    margin-top: 27px;
+    padding-right: 0px;
+}
+.step1 h4 {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 50px 0px 35px 0px;
+}
+.footer-left{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+
+.titl h4::after {
+    content: '';
+    position: absolute;
+    background: #000000;
+    width: 66%;
+    height: 5px;
+    top: 108%;
+    left: 2%;
+}
+
+.footer-left ul li a::after {
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 1%;
+    height: 2px;
+    left: 45%;
+}
+
+
+
+
+
+  }
+
+
+
+  /* 
+Large devices (Desktops, 992px and up)
+  */
+  
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .content-box h1::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 5%;
+        height: 4px;
+        top: 20%;
+        left: 19%;
+    }
+
+    .titl h4::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 61%;
+        height: 6px;
+        top: 100%;
+        left: 2%;
+    }
+
+    .step1 h4::after {
+        content: '';
+        position: absolute;
+        background: #000000;
+        width: 75%;
+        height: 4px;
+        top: 16%;
+        left: 4%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+ /* 
+Extra large devices (large desktops, 1200px and up)
+  */
+  
+  @media (min-width: 1200px) {
+
+
+
+    .content-box h1::after {
+        content: '';
+        position: absolute;
+        background: #fff;
+        width: 5%;
+        height: 4px;
+        top: 20%;
+        left: 19%;
+    }
+
+
+
+  }
+
